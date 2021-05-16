@@ -1,5 +1,6 @@
 # Generative-deep-learning
-There are some examples such as GAN,VAE and related fields in generative deep learning in this repository
+There are some examples such as GAN,VAE and related fields in generative deep learning in this repository.
+
 Large notebooks link are shown below:
 
 # Cycle GAN
