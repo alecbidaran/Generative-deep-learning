@@ -8,5 +8,5 @@ Large notebooks link are shown below:
 
 # VAE,WGAN
 [VAE,WGAN](https://colab.research.google.com/drive/1rmnRB96amgV6JzlREUQy9znCuJwj8d1j?usp=sharing)
-#DCGAN
+# DCGAN
 [DCGAN](https://drive.google.com/file/d/1BjSIXO_psz1veyRg4EhkRVWOVcbZXEJe/view?usp=sharing)
